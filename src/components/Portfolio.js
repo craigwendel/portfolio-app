@@ -52,7 +52,7 @@ export default class Porfolio extends Component {
           </div>
           <div className="card-group">
             <div className="card">
-              <img className="card-img-top" src="https://pbs.twimg.com/profile_images/688801955020435456/JqsEWy2Z_400x400.png" alt="react js logo" />
+              <img className="card-img-top" src="https://www.shareicon.net/download/2016/07/08/117367_logo.ico" alt="react js logo" />
               <div className="card-block">
                 <h4 className="card-title">ReactJS</h4>
               </div>
@@ -64,7 +64,7 @@ export default class Porfolio extends Component {
               </div>
             </div>
             <div className="card">
-              <img className="card-img-top" src="https://www.shareicon.net/download/2016/06/19/603824_nodejs.ico" alt="node JavaScript logo" />
+              <img className="card-img-top" src="https://www.shareicon.net/download/2016/06/19/603784_nodejs.ico" alt="node JavaScript logo" />
               <div className="card-block">
                 <h4 className="card-title">Node.js</h4>
               </div>
@@ -72,7 +72,7 @@ export default class Porfolio extends Component {
             <div className="card">
               <img className="card-img-top" src="http://www.djangobytes.net/img/html-logo.png" alt="html and css logo" />
               <div className="card-block">
-                <h4 className="card-title">HTML5/CSS3</h4>
+                <h4 className="card-title">HTML5 / CSS3</h4>
               </div>
             </div>
           </div>
