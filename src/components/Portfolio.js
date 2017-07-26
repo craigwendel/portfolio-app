@@ -35,11 +35,11 @@ export default class Porfolio extends Component {
               </div>
             </div>
             <div className="card">
-              <img className="card-img-top" src="https://superrepo.org/static/images/icons/original/xplugin.video.playlistLoader.png.pagespeed.ic.cN3WazgAOp.png" alt="playlist" />
+              <img className="card-img-top" src="https://cdn4.iconfinder.com/data/icons/learn-1/26/17-256.png" alt="playlist" />
               <div className="card-block">
                 <h4 className="card-title">Fire Jams!</h4>
                 <p className="card-text">Submit your favorite songs on this playlist to become the life of the party, guaranteed!</p>
-                <a href="https://github.com/craigwendel/react-playlist" target="_blank" rel="noopener noreferrer" className="btn btn-primary">View the code for my React Playlist</a>
+                <a href="https://craigwendel.github.io/react-playlist/" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Visit Fire Jams to add songs to the playlist</a>
                 <p className="card-text"><small className="text-muted">Last updated 1 day ago</small></p>
               </div>
             </div>

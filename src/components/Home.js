@@ -13,7 +13,7 @@ export default class BaseLayout extends Component {
             </div>
             <h1 className="display-3">Welcome to the life of Craig!</h1>
             <hr className="my-4" />
-            <p>Click below to learn a little more information about me and my current journey here at the Iron Yard!</p>
+            <h4>Click below to learn a little more information about me and my current journey here at the Iron Yard!</h4>
             <p className="lead">
               <Link to='/aboutme' className="btn btn-primary btn-lg" role="button">About Me</Link>
             </p>
