@@ -52,7 +52,7 @@ export default class Porfolio extends Component {
           </div>
           <div className="card-group">
             <div className="card">
-              <img className="card-img-top" src="https://www.shareicon.net/download/2016/07/08/117367_logo.ico" alt="react js logo" />
+              <img className="card-img-top" src="https://pbs.twimg.com/profile_images/632006046832136192/X8zArGIF.png" alt="react js logo" />
               <div className="card-block">
                 <h4 className="card-title">ReactJS</h4>
               </div>
